@@ -167,8 +167,8 @@ function AppViewModel() {
 	});
 
 	// Foursquare API settings
-	clientID = "V443OTCAQPJLCRY4QWBFYN3ZK5FDKGJOYDHLMI3O342IRVNN";
-	clientSecret = "AK1JHLEG2D2KW14WF5HYVFNTUYFTBXYS4LDUUNRAHPR5URLB";
+	clientID = "HR2DDE5Y2I2WFI3LN042LWUAAGKF3ZNXXXCHUJXL0VW3U3LB";
+	clientSecret = "4W4ZX3D5HSY0LL4BH0MQQ1VODYCLV0F2K5HUQW1DUIFQG3WK";
 
 	initialLocations.forEach(function(locationItem){
 		self.locationList.push( new Location(locationItem));
