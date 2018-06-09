@@ -1,4 +1,4 @@
-## Neighbourhood Map - Café & Cowork in Paris
+## Neighbourhood Map 
 This single page application shows a map of list of mountains. This app is built for a Neighbourhood map project which is a part of the Front End Web Development Nanodegree at Udacity.
 
 ## Libraries, frameworks and APIs used
