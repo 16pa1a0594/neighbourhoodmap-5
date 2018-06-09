@@ -18,4 +18,6 @@ This single page application shows a map of list of mountains. This app is built
 * Add functionality to open an infoWindow when either a location is selected from the list view or its map marker is selected directly.
 * The app's interface is intuitive to use. For example, the input text area to filter locations is easy to locate. It should be easy to understand what set of locations is being filtered.
 * Google maps and Forsquare errors are handled gracefully.
-
+## How to View This App
+1. Test the app at:https://github.com/som16pa1a0563/neighbourhood-map.git
+2. Remember to update with your own Foursquare Client ID and password information to be able to fetch and view the data.
