@@ -31,7 +31,7 @@ var initialLocations = [
 		name: 'annapurna',
 		lat: 37.394,
 		long: -121.948
-
+	},
 	{
 		name: 'dehradun ranges',
 		lat: 37.429,
