@@ -194,12 +194,7 @@ function AppViewModel() {
 	this.mapElem = document.getElementById('map');
 	this.mapElem.style.height = window.innerHeight - 50;
 }
- map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat:37.429, lng:-121.984},
-        zoom: 16,
-        styles: styles,
-        mapTypeControl: false
-    });
+ 
  this.centerMap = function(){
         map.setCenter({lat:37.429, lng:-121.984});
     };
