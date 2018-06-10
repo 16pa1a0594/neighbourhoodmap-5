@@ -6,11 +6,7 @@ var initialLocations = [
 		lat: 37.370,
 		long: -122.002
 	},
-	{
-		name: 'aravali',
-		lat: 37.402,
-		long: -122.052
-	},
+	
 	{
 		name: 'vindya ranges',
 		lat: 37.381,
@@ -35,12 +31,7 @@ var initialLocations = [
 		name: 'annapurna',
 		lat: 37.394,
 		long: -121.948
-	},
-	{
-		name: 'manasalu',
-		lat: 37.415,
-		long: -121.878
-	},
+
 	{
 		name: 'dehradun ranges',
 		lat: 37.429,
